@@ -1,4 +1,4 @@
-## Hi, I'm Chanwoo. 👋
+## Chanwoo. 
 
 <!--
 **Chanwoo1124/Chanwoo1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
